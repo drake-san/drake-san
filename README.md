@@ -1,5 +1,5 @@
 <h1 align="center">Hi 🖖, I'm Drake San</h1>
-<h3 align="center">A passionate frontend dea boy who wants to have fun by making video games and eating some cakeveloper from India</h3>
+<h3 align="center">a boy who wants to have fun by making video games and eating some cake</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drake-san&label=Profile%20views&color=0e75b6&style=flat" alt="drake-san" /> </p>
 
