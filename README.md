@@ -13,8 +13,6 @@
 
 - 💬 Ask me about **C#,game dev, video games, kobayashi-san and cakes**
 
-- 📫 How to reach me **gouetfredericarthur@gmail.com**
-
 - ⚡ Fun fact **I'm just a memory**
 
 <h3 align="left">Connect with me:</h3>
