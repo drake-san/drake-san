@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gouetfredericarthur@gmail.com**
 
-- ⚡ Fun fact **I am not**
+- ⚡ Fun fact **I'm just a memory**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
