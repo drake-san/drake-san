@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available [here](https://github.com/drake-san?tab=repositories)
 
-- 📫 Add me on Discord **drakesan3**
+- 📫 Add me on **[Discord](https://discord.com/users/644930404582817792)**
 
 - ⚡ Fun fact **i wanted to be a game developper at the beginning**
 
