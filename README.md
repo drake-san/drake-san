@@ -9,7 +9,7 @@
 
 - 📫 Add me on **[Discord](https://discord.com/users/644930404582817792)**
 
-- ⚡ Fun fact **i wanted to be a game developper at the beginning**
+- ⚡ Fun fact **I like chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
