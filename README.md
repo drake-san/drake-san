@@ -3,7 +3,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=drake-san&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-🌱 I’m currently learning  Laravel framework, Angular Framework & Spring Boot<br>🤝 I’m looking for help with Game dev tips and tricks<br>💬 Ask me about Game dev, Kobayashi-san and cakes<br>⚡ Fun fact I like chess
+🌱 I’m currently learning  Laravel framework, Spring Boot, ReactJS & Unity<br>🤝 I’m looking for help with Game dev tips and tricks<br>💬 Ask me about Game dev, Kobayashi-san and cakes<br>⚡ Fun fact I like chess
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/644930404582817792) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drakesan3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/frederic-arthur-gouet-iii) 
