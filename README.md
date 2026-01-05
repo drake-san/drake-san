@@ -3,7 +3,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=drake-san&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
-🌱 Seeking to mastering the Unity Game Engine<br>🤝 Only talks about video games and programming(games and related ofc) (<br>💬 Ask me about Game dev and Kobayashi-san<br>⚡ Fun fact I **HATE** Web Dev
+🌱 Seeking to mastering the Unity Game Engine<br>🤝 Only talks about video games and programming(games and related ofc)<br>💬 Ask me about Game dev and Kobayashi-san<br>⚡ Fun fact, I **HATE** Web Dev
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/644930404582817792) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/drakesan3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/frederic-arthur-gouet-iii) 
